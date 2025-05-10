@@ -11,3 +11,7 @@ inputs:
 runs:
   using: 'node20'
   image: 'dist/index.js'
+
+branding:
+  icon: 'award'
+  color: 'green'
