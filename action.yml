@@ -1,4 +1,4 @@
-name: 'Giphy PR Comment JavaScript KodeKloud'
+name: 'markitty giphy pr comment'
 description: 'Add a Giphy GIF comment to new pull requests.'
 inputs:
   github-token:
